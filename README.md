@@ -28,11 +28,11 @@
   <h3 align="center">synote</h3>
 
   <p align="center">
-    <a href="https://demo.logad.net/synote">View Demo</a>
+    <a href="https://notes.megacloud.cf">View Demo</a>
     ·
-    <a href="https://github.com/michael-arawole/synote/issues">Report Bug</a>
+    <a href="https://github.com/michaelthedev/synote/issues">Report Bug</a>
     ·
-    <a href="https://github.com/michael-arawole/synote/issues">Request Feature</a>
+    <a href="https://github.com/michaelthedev/synote/issues">Request Feature</a>
   </p>
 </div>
 
@@ -122,7 +122,7 @@ Distributed under the MIT License.
 
 <!-- CONTACT -->
 ## Contact
-Michael Arawole - [@MichaelArawole](https://twitter.com/michaelarawole) - mycodemichael@gmail.com
+Michael Arawole - [@MichaelArawole](https://twitter.com/michaelarawole) - mycodemichael@gmail.com <br>
 Santiago Rodriguez - [@Santy Designs](https://santydesigns.com/contact) - santiago@santydesigns.com
 
 
