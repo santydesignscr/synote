@@ -78,8 +78,8 @@ The projects includes the Postman API documentation
 
 _How to install._
 
-1. Upload and extract To Install/Notes App.zip
-2. Navigate to backend/inc/config.php
+1. Upload and extract `To Install/Notes App.zip`
+2. Navigate to `backend/inc/config.php`
 3. Edit the credentials
    ```php
    $dbHost = "<DATABASE-HOST>";
@@ -88,7 +88,7 @@ _How to install._
    $dbName = "<DATABASE-NAME>";
    ```
    
-4. Upload To Install/database.sql to your database
+4. Upload `To Install/database.sql` to your database
 5. Save and open the url in your browser
 
 <p align="right">(<a href="#top">back to top</a>)</p>
